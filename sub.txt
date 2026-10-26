@@ -1,1 +1,1 @@
-
+vless://d74f1ece-00b6-4641-ace3-a419a0e86331@91.209.228.122:28951?type=tcp&encryption=none&security=none#%40failvpn_bot%20%7C%20US%20%7C%20VLESS
